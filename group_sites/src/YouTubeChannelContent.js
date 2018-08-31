@@ -22,6 +22,7 @@ class YouTubeChannelContent extends Component {
 
                             <div className="video-info">
                                 <h3 className="video-title"></h3>
+                                WHERE ARE YOU
                                 <ul className="video-meta-data">
                                     <li className="video-creator">
                                         <i className="fas fa-check-circle"></i>
