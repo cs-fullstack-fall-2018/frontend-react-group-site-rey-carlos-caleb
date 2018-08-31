@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/frontend-react-group-site-rey-carlos-caleb.iml" filepath="$PROJECT_DIR$/frontend-react-group-site-rey-carlos-caleb.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/frontend-react-group-site-rey-carlos-caleb.iml" filepath="$PROJECT_DIR$/.idea/frontend-react-group-site-rey-carlos-caleb.iml" />
+>>>>>>> 5655a02783bc2d3dae2e4ff0db8c8c62d32112ca
     </modules>
   </component>
 </project>
