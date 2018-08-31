@@ -5,7 +5,8 @@ import registerServiceWorker from './registerServiceWorker';
 import App from './App';
 import FaceBookMain from "./FaceBookMain";
 import YouTube from "./YouTube";
+import FaceBookRightPage from "./FaceBookRightPage";
 
 //ReactDOM.render(<FaceBookMain/>, document.getElementById('root'));
-ReactDOM.render(<YouTube/>, document.getElementById('root'));
+ReactDOM.render(<FaceBookRightPage/>, document.getElementById('root'));
 registerServiceWorker();
