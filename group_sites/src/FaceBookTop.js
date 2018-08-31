@@ -8,8 +8,8 @@ class FaceBookTop extends Component {
                 <div id="navbar">
                     <table className="tablewrapper">
                         <tr>
-                            <td className="row1"></td>
-                            <td className="row1"></td>
+                            <td className="row1">email/phone</td>
+                            <td className="row1">password</td>
                         </tr>
                         <tr>
                             <td>
@@ -17,18 +17,18 @@ class FaceBookTop extends Component {
                             <td>
                             </td>
                             <td>
-                                <div id="button"></div>
+                                <div id="button">Sign In</div>
                             </td>
                         </tr>
-                        <tr>
+                        <tr >
                             <td>
-                                <div className="row2"></div>
+                                <div className="row2"><input type="text"/></div>
                             </td>
-                            <td className="row2 h"></td>
+                            <td className="row2 h"><input type="text"/></td>
                         </tr>
                     </table>
 
-                    <h1 className="logowrapper"></h1>
+                    <h1 className="logowrapper">Facebook</h1>
 
                 </div>
             </div>
